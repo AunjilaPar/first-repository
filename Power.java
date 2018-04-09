@@ -1,3 +1,10 @@
+/**
+Name: Power
+Description: finds power of a number
+Created By: Aunjila Parvin
+Created On: 01/04/2018
+*/
+
 import java.util.Scanner;
 
 public class Power{

@@ -1,3 +1,10 @@
+/**
+Name: SearchStudent
+Description: The program should prompt the user to enter a search term and use this search term to find a match or matches in the array
+Created By: Aunjila Parvin
+Created On: 01/04/2018
+*/
+
 import java.util.Scanner;
 
 public class SearchStudent{
